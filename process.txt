@@ -1,0 +1,6 @@
+1. npx create-react-app{
+    To create the react app 
+}
+2. npm install --legacy--peer-deps {
+    We have copied the dependencies same as the source code, so using this command will install the same dependencies.
+}
